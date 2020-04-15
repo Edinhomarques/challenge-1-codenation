@@ -188,15 +188,6 @@ body {
 	border-bottom: 1px solid#e4bb23;
 }
 
-/* ul.catalogo-film {
-	align-items: flex-start;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	padding: 20px 0;
-	width: 100%;
-	
-} */
 ul.catalogo-film {
 	align-items: flex-start;
 	display: grid;
